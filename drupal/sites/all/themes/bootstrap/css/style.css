@@ -1,0 +1,26 @@
+.navbar-nav{
+float:right;
+}
+
+h1.page-header{
+font-size:20px;
+}
+        text {
+            font: 12px sans-serif;
+        }
+        svg {
+            display: block;
+            margin: 0px;
+            padding: 0px;
+            height: 100%;
+            width: 100%;   
+     }
+
+th.views-field{
+vertical-align:middle;
+text-align:center;
+}
+
+td.views-field{
+vertical-align:middle;
+}
